@@ -2,4 +2,4 @@ const person = {name: "Jack William", age: 17, job: "Facebooker", gfName: "Ema W
 
 const {phone, gfName, address} = person;
 
-console.log(gfName, address, phone);
+// console.log(gfName, address, phone);

@@ -12,5 +12,5 @@ class Child extends Parents{
 const baby = new Child ("Sayed");
 const baby2 = new Child ("Tom");
 
-console.log(baby);
+console.log(baby);02
 console.log(baby2);
